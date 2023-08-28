@@ -3,8 +3,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">  
   <title>X Tracker</title>
-  <script type = "text/javascript"
-     src = "{{ url_for('static', filename = 'hello.js') }}"></script>
+  
   <style>
     /* CSS styles for animated UI */
     body {
@@ -77,14 +76,7 @@
       border-radius: 10px;
       box-shadow: 8px 8px 16px #d9d9d9, -8px -8px 16px #ffffff;
     }
-    #act {
-      animation: fadeInUp 1s ease;
-      padding: 20px;
-      background: #3eb0f2;
-      border-radius: 10px;
-      box-shadow: 8px 8px 16px #d9d9d9, -8px -8px 16px #ffffff;
-    }
-
+    
     #ipDetails {
       margin: 20px auto;
       width: 300px;
@@ -129,12 +121,14 @@
    <div class="search-container">
      <t>🔎</t>
      <i class="search-icon fas fa-search"></i>
-     <input class="search-input" type="text" placeholder=" ip Search... eg:127.0.0.1" id="tex" >
+     <input class="search-input" id="tex" type="text" placeholder={{ prompt }} value={{ prompt }} >
      <button class="search-button" onclick="go()">Search</button>
    </div>
   
   <div id="ipDetails">
-    <p id="act" onclick="getIPDetails()"> LOCATE ME </p>
+    
   </div>
 </body>
+<script type = "text/javascript"
+     src = "{{ url_for('static', filename = 'mello.js') }}"></script>
 </html>
