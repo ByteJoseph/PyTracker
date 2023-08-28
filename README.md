@@ -10,4 +10,4 @@ install flask by pip
 ```
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/school-bcecd.appspot.com/o/Weather%2FScreenshot_2023-08-28-17-04-02-812_com.android.chrome.jpg?alt=media&token=62e1ded1-f03c-4b03-8be1-f41b18667099)
