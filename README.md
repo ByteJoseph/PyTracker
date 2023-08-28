@@ -8,4 +8,4 @@ install flask by pip
 ```bash
   pip install Flask
 ```
-![Logo]([https://drive.google.com/file/d/1jZJUifjznTAFwFp0rF7RVPfXE-GUlfM8/view?usp=drivesdk])
+![Logo]([https://drive.google.com/file/d/1jZJUifjznTAFwFp0rF7RVPfXE-GUlfM8])
