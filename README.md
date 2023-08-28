@@ -8,4 +8,6 @@ install flask by pip
 ```bash
   pip install Flask
 ```
-![Logo]([https://firebasestorage.googleapis.com/v0/b/school-bcecd.appspot.com/o/IMG_20230828_170735.jpg?alt=media&token=0e636dab-cf7f-4143-a31e-1420a58aa442])
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
