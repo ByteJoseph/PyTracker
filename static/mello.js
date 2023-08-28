@@ -15,8 +15,8 @@ function go(){
       window.location.href = '/'+name;
   }
 }
-
-const ipInfoApiUrl = 'https://ipinfo.io/?token=968f536b99af46';
+var nme = getInputVal('tex');
+const ipInfoApiUrl = 'https://ipinfo.io/'+nme+'?token=968f536b99af46';
     
     // Replace YOUR_IPDATA_API_KEY with your actual API key from ipdata.co
 const ipDataApiKey = 'YOUR_IPDATA_API_KEY';
@@ -71,4 +71,4 @@ function checkVPNStatus(ipAddress) {
     }
 
     // Call the function to get IP address details when the page loads
-//getIPDetails();
+getIPDetails();
