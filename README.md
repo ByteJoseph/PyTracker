@@ -8,6 +8,10 @@ install flask by pip
 ```bash
   pip install Flask
 ```
+## Run
+```bash
+  python flask_app.py
+```
 ## Demo
 
 https://itsmejoseph230606.pythonanywhere.com
