@@ -4,7 +4,7 @@
 
 ## Installation
 ```bash
-git clone
+git clone https://github.com/its-joseph-230606/PyTracker.git
 ```
 install requirements
 
