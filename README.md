@@ -8,15 +8,16 @@
 ```bash
 git clone https://github.com/its-joseph-230606/PyTracker.git
 ```
+```bash
+cd PyTracker
+```
+
 install requirements
 
 ```bash
 pip install -r requirements.txt
 ```
 ## Run
-```bash
-cd PyTracker
-```
 ```bash
 python flask_app.py
 ```
