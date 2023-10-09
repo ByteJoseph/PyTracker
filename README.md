@@ -27,6 +27,7 @@ python flask_app.py
 ## Demo
 
 https://itsmejoseph230606.pythonanywhere.com
+![preview](https://itsmejoseph230606.pythonanywhere.com)
 ## Screenshots
 
 ## 🛠 Skills
