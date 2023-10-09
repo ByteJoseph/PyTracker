@@ -11,4 +11,5 @@ def favicon():
 def search(ip):
    print(ip)
    return render_template("search.html", prompt=ip)
-app.run()
+if __name__ == "__main__":
+   app.run()
