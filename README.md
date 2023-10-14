@@ -39,3 +39,8 @@ https://itsmejoseph230606.pythonanywhere.com
 
 ## 🛠 Skills
 Python,C++,Javascript, HTML, CSS...
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=its-joseph-230606/PyTracker&type=Date)](https://star-history.com/#its-joseph-230606/PyTracker&Date)
+
