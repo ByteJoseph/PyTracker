@@ -35,6 +35,7 @@ python flask_app.py
 ## Demo
 
 https://itsmejoseph230606.pythonanywhere.com
+[![Hits](https://hits.sh/itsmejoseph230606.python anywhere.com.svg)](https://hits.sh/itsmejoseph230606.pythonanywhere.com/)
 ## Screenshots
 
 ## 🛠 Skills
